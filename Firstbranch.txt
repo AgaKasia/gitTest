@@ -1,0 +1,385 @@
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ cdm- windows git
+bash: cdm-: command not found
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ cd c:\User\Agata
+bash: cd: c:UserAgata: No such file or directory
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ cd: c:\User\Agata\strona\Deskopt
+bash: cd:: command not found
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ cd c:\Users\Agata\Desktop\punkt5.zip
+bash: cd: c:UsersAgataDesktoppunkt5.zip: No such file or directory
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ git commit -m
+error: switch `m' requires a value
+usage: git commit [<options>] [--] <pathspec>...
+
+    -q, --quiet           suppress summary after successful commit
+    -v, --verbose         show diff in commit message template
+
+Commit message options
+    -F, --file <file>     read message from file
+    --author <author>     override author for commit
+git machancha                                                   (Default: all)
+
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ git config credential.helper store
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ echo"#test- repo">>READMR.md
+bash: echo#test- repo: command not found
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/Agata/.git/
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ add README.md
+bash: add: command not found
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ cd~
+bash: cd~: command not found
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ cd ~
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ cd~
+bash: cd~: command not found
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ cd ~
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ mkdir repos
+mkdir: cannot create directory ‘repos’: File exists
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ cd repos
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/repos (master)
+$ cd~
+bash: cd~: command not found
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/repos (master)
+$ c ~
+bash: c: command not found
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/repos (master)
+$
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/repos (master)
+$ cd ~
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ mkdir respo
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ cd respo
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/respo (master)
+$ git clon https://agataKasia@bitbucket.org/agataKasia/gata.git
+git: 'clon' is not a git command. See 'git --help'.
+
+The most similar commands are
+        clone
+        column
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/respo (master)
+$ cd ~
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ mkdir repos
+mkdir: cannot create directory ‘repos’: File exists
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ cd repos
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/repos (master)
+$ dir repo
+dir: cannot access 'repo': No such file or directory
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/repos (master)
+$ git clone https://agataKasia@bitbucket.org/agataKasia/gata.git
+Cloning into 'gata'...
+remote: Counting objects: 3, done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0)
+Unpacking objects: 100% (3/3), done.
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/repos (master)
+$ pwd
+/c/Users/Agata/repos
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/repos (master)
+$ cd..
+bash: cd..: command not found
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/repos (master)
+$ cd ..
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ pwd
+/c/Users/Agata
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ mkdir
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ mkdir Myrepo
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~ (master)
+$ cd Myrepo
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo (master)
+$ ls
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo (master)
+$ git init
+Initialized empty Git repository in C:/Users/Agata/Myrepo/.git/
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo (master)
+$ notepad connectingHH
+/usr/bin/notepad: line 10: exec: notepad.exe: not found
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo (master)
+$ notepad connectingHH.txt
+/usr/bin/notepad: line 10: exec: notepad.exe: not found
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo (master)
+$ notepad connectnigHH.txt
+/usr/bin/notepad: line 10: exec: notepad.exe: not found
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo (master)
+$ ls
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo (master)
+$ git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo (master)
+$ "git add"
+bash: git add: command not found
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo (master)
+$ md gitTest
+bash: md: command not found
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo (master)
+$ mkdir gitTest
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo (master)
+$ cd gitTest
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ ls
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ git init
+Initialized empty Git repository in C:/Users/Agata/Myrepo/gitTest/.git/
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ git config --global user.email"agaela2010@gmail.com"
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ git config --global user.name"Aga"
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ notepad FirstFile.txt
+/usr/bin/notepad: line 10: exec: notepad.exe: not found
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ /usr/bin/notepad: line 10:exec: notepad FirstFile.txt
+bash: /usr/bin/notepad:: No such file or directory
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ usr/Desktop/notpad: line 10:exec:
+bash: usr/Desktop/notpad:: No such file or directory
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        FirstFile.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ 'git add.'
+bash: git add.: command not found
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ git clon
+git: 'clon' is not a git command. See 'git --help'.
+
+The most similar commands are
+        clone
+        column
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/Agata/Myrepo/gitTest/.git/
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        FirstFile.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ git add FirstFile.txt
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   FirstFile.txt
+
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ git commit -m "adding first commit in local rep"
+[master (root-commit) f2c2370] adding first commit in local rep
+ 1 file changed, 1 insertion(+)
+ create mode 100644 FirstFile.txt
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        SecandFile.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   FirstFile.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        SecandFile.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ git commit -a -m "adding 2 files together"
+[master a0971f7] adding 2 files together
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ git log
+commit a0971f7a58ef94421b062dce3bacdd232a82098f (HEAD -> master)
+Author: unknown <a257318@student.ait.ie>
+Date:   Tue Mar 6 20:22:37 2018 +0000
+
+    adding 2 files together
+
+commit f2c237051223a2f688378184581705d2e2d70e3e
+Author: unknown <a257318@student.ait.ie>
+Date:   Tue Mar 6 20:14:30 2018 +0000
+
+    adding first commit in local rep
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ git branch firstbranch
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ git checkout firstbranch
+Switched to branch 'firstbranch'
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (firstbranch)
+$ git add firstbranch.txt
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (firstbranch)
+$ git commit -m "making changes in firstbranch
+>
+> "
+On branch firstbranch
+Untracked files:
+        Firstbranch.txfilegia
+        SecandFile.txt
+
+nothing added to commit but untracked files present
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (firstbranch)
+$ ls
+Firstbranch.txt  FirstFile.txt  SecandFile.txt
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (firstbranch)
+$ git checkout master
+Switched to branch 'master'
+
+Agata@LAPTOP-U99HCG3F MINGW64 ~/Myrepo/gitTest (master)
+$ ls
+Firstbranch.txt  FirstFile.txt  SecandFile.txt
+
+Agata
